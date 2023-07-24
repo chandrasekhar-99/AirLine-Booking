@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.home-container {
+  margin: 0px;
+  background-size: cover;
+  height: 100vh;
+  background-image: url('https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  text-shadow: 2px 2px #000000;
+}
+.description {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 20px;
+}

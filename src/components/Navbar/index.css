@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.nav-container {
+  background: linear-gradient(to right, #0096ff 10%, #1f4acc 100%);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.login-button {
+  color: #275dff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  background-color: #ffffff;
+  border-color: #275dff;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.logo {
+  font-size: 30px;
+}
+
+.nav-text {
+  font-size: 20px;
+}
